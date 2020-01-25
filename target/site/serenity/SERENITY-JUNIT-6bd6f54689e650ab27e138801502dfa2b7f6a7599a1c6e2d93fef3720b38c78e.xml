@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="Prueba de automatizacion con Screenplay practica TechAndSolve" skipped="0" tests="4" time="55.06" timestamp="2020-01-25 02:24:18"><testcase name="Crear un usuario y validar el nombre creado"/><testcase name="Loguear un usuario y agregar al carrito de compras"/><testcase name="Crear un articulo en wish list y verificar su creacion"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+co.com.tutorialsninja.www.tasks.IngresarUsuarioContraseñaTarea.performAs(IngresarUsuarioContraseñaTarea.java:17)&#13;
+co.com.tutorialsninja.www.stepdefinitions.TutorialsNinjaStepdefinitions.ingresoUserYPass(TutorialsNinjaStepdefinitions.java:108)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+</system-err></testcase><testcase name="Retirar articulo de wish list y verificar su retiro"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+co.com.tutorialsninja.www.tasks.IngresarLoginTarea.performAs(IngresarLoginTarea.java:17)&#13;
+co.com.tutorialsninja.www.stepdefinitions.TutorialsNinjaStepdefinitions.seleccionoMyAccountLogin(TutorialsNinjaStepdefinitions.java:103)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+</system-err></testcase></testsuite>
